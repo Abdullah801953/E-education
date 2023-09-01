@@ -6,13 +6,41 @@
 
 .navbar {
   display: flex;
+  height: 62px;
 }
 
 .nav-list {
-  width: 50%;
-  background: #34e4;
+  width: 31%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .nav-list li {
+  padding: 40px;
 }
 .nav-list li a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-list li a:hover {
+  color: gray;
+}
+
+.rightnav {
+  width: 50%;
+  position: absolute;
+  right: -482px;
+}
+
+.logo img {
+  width: 52px;
+  border-radius: 63%;
+  display: block;
+  margin-left: 170px;
+}
+
+#search {
+  padding: 6px;
+  border-radius: 24px;
 }
