@@ -3,3 +3,16 @@
   padding: 0;
   list-style: none;
 }
+
+.navbar {
+  display: flex;
+}
+
+.nav-list {
+  width: 50%;
+  background: #34e4;
+}
+.nav-list li {
+}
+.nav-list li a {
+}
