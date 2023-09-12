@@ -1,0 +1,475 @@
+@media only screen and (max-width: 1382px) {
+  .btn1 {
+    position: relative;
+    left: -4px;
+  }
+
+  .input1 {
+    position: relative;
+    left: -6px;
+  }
+
+  nav {
+    width: 1394px;
+  }
+
+  .first-section {
+    width: 1394px;
+  }
+
+  footer {
+    width: 1394px;
+  }
+
+  .contact {
+    width: 1394px;
+  }
+
+  hr {
+    width: 1394px;
+  }
+
+  /* .burger {
+    display: none;
+  } */
+}
+
+/* @media only screen and (max-width: 576px) {
+  .list {
+    flex-direction: column;
+    height: 274px;
+  }
+  .logo {
+    margin: auto;
+    position: relative;
+    bottom: 63px;
+  }
+
+  .home {
+    position: relative;
+    bottom: 130px;
+  }
+
+  .about {
+    position: relative;
+    bottom: 123px;
+  }
+
+  .service {
+    position: relative;
+    bottom: 116px;
+  }
+
+  .contactus {
+    position: relative;
+    bottom: 106px;
+  }
+
+  .input1 {
+    position: relative;
+    right: 538px;
+    top: 179px;
+  }
+
+  .btn1 {
+    position: relative;
+    right: 663px;
+    top: 220px;
+  }
+  /* .opacity {
+    opacity: 0;
+  } */
+
+/* nav {
+    height: 72px;
+    width: 2307px;
+  } */
+
+/* .first-section {
+    width: 2307px;
+  }
+
+  .burger {
+    position: relative;
+    bottom: 250px;
+  }
+} */
+
+@media only screen and (max-width: 1360px) {
+  .input1 {
+    position: relative;
+    right: 546px;
+    top: 179px;
+  }
+  .btn1 {
+    position: relative;
+    right: 670px;
+    top: 220px;
+  }
+}
+
+@media only screen and (max-width: 1349px) {
+  .input1 {
+    position: relative;
+    right: 550px;
+    top: 179px;
+  }
+  .btn1 {
+    position: relative;
+    right: 673px;
+    top: 220px;
+  }
+}
+@media only screen and (max-width: 1333px) {
+  .input1 {
+    position: relative;
+    right: 719px;
+    top: 179px;
+  }
+  .btn1 {
+    position: relative;
+    right: 843px;
+    top: 220px;
+  }
+}
+@media only screen and (max-width: 1332px) {
+  .input1 {
+    position: relative;
+    right: 557px;
+    top: 179px;
+  }
+  .btn1 {
+    position: relative;
+    right: 681px;
+    top: 220px;
+  }
+}
+@media only screen and (max-width: 1300px) {
+  .input1 {
+    position: relative;
+    right: 573px;
+    top: 179px;
+  }
+  .btn1 {
+    position: relative;
+    right: 696px;
+    top: 220px;
+  }
+}
+@media only screen and (max-width: 360px) {
+  .contact {
+    width: 1387px;
+  }
+  footer {
+    width: 1387px;
+  }
+
+  nav {
+    width: 1387px;
+  }
+
+  .input1 {
+    position: relative;
+    top: 179px;
+    right: 536px;
+  }
+
+  .btn1 {
+    position: relative;
+    right: 661px;
+    top: 220px;
+  }
+
+  .first-section {
+    height: 100vh;
+    width: 1387px;
+  }
+
+  #img2 {
+    width: 197px;
+    margin-top: 23px;
+    margin-left: 23px;
+    margin-right: -942px;
+    border-radius: 12px;
+  }
+
+  #img3 {
+    width: 197px;
+    margin-top: 23px;
+    margin-left: 3px;
+    margin-right: 632px;
+    border-radius: 12px;
+    position: absolute;
+    left: 23px;
+  }
+
+  .parathird {
+    margin-left: -617px;
+    position: relative;
+    left: 851px;
+  }
+
+  .paras2 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 14px;
+    font-family: "Roboto", sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
+    margin-top: 100px;
+  }
+}
+
+@media only screen and (max-width: 1361px) {
+  .input1 {
+    position: static;
+    margin-top: -8px;
+    margin-bottom: 4px;
+  }
+  .btn1 {
+    position: static;
+    margin-top: -8px;
+    margin-bottom: 4px;
+  }
+
+  nav {
+    width: 1390px;
+  }
+
+  .first-section {
+    width: 1390px;
+  }
+
+  footer {
+    width: 1390px;
+  }
+
+  .contact {
+    width: 1390px;
+  }
+
+  hr {
+    width: 1390px;
+  }
+}
+
+@media only screen and (max-width: 577px) {
+  .input1 {
+    position: relative;
+    left: -536px;
+  }
+
+  .btn1 {
+    position: relative;
+    left: -662px;
+  }
+  .paras {
+    width: 1392px;
+  }
+  .paras2 {
+    width: 1392px;
+  }
+  .paras3 {
+    width: 1392px;
+  }
+  nav {
+    width: 1392px;
+    /* height: 273px; */
+  }
+  .first-section {
+    width: 1392px;
+  }
+  footer {
+    width: 1392px;
+  }
+
+  .contact {
+    width: 1392px;
+  }
+
+  .logo {
+    margin-left: 431px;
+    position: relative;
+    left: 235px;
+  }
+
+  .home {
+    position: relative;
+    left: 149px;
+    top: 41px;
+  }
+
+  .about {
+    position: relative;
+    left: 26px;
+    top: 73px;
+  }
+
+  .service {
+    position: relative;
+    right: 101px;
+    top: 107px;
+  }
+
+  .contactus {
+    position: relative;
+    right: 240px;
+    top: 139px;
+  }
+
+  .opacity {
+    opacity: 0;
+  }
+
+  .navbar {
+    height: 273px;
+    transition: 0.5s ease-out;
+  }
+
+  .navresp {
+    height: 117px;
+  }
+}
+@media only screen and (max-width: 361px) {
+  nav {
+    width: 1444px;
+  }
+
+  .first-section {
+    width: 1444px;
+  }
+
+  footer {
+    width: 1444px;
+  }
+
+  .contact {
+    width: 1444px;
+  }
+
+  hr {
+    width: 375px;
+  }
+  .paras {
+    width: 375px;
+  }
+  .paras2 {
+    width: 375px;
+  }
+  .paras3 {
+    width: 375px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .paras {
+    width: 1320px;
+  }
+  .paras2 {
+    width: 1320px;
+  }
+  .paras3 {
+    width: 1320px;
+  }
+}
+
+@media only screen and (max-width: 361px) {
+  .first-section {
+    width: 1442px;
+  }
+  .input1 {
+    position: relative;
+    left: -508px;
+  }
+
+  .btn1 {
+    position: relative;
+    left: -633px;
+  }
+  .paras {
+    width: 371px;
+  }
+  .paras2 {
+    width: 371px;
+  }
+  .paras3 {
+    width: 371px;
+  }
+}
+
+@media only screen and (max-width: 349px) {
+  .paras {
+    width: 241px;
+  }
+  .paras2 {
+    width: 241px;
+  }
+  .paras3 {
+    width: 241px;
+  }
+}
+@media only screen and (max-width: 280px) {
+  nav {
+    width: 1120px;
+  }
+
+  .input1 {
+    position: relative;
+    left: -662px;
+  }
+
+  .btn1 {
+    position: relative;
+    left: -785px;
+  }
+
+  .first-section {
+    width: 1119px;
+  }
+
+  .paras {
+    width: 106px;
+  }
+  .paras2 {
+    width: 106px;
+  }
+  .paras3 {
+    width: 106px;
+  }
+
+  .contact {
+    width: 1129px;
+  }
+
+  footer {
+    width: 1129px;
+  }
+}
+
+@media only screen and (min-width: 577px) {
+  .burger {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 361px) {
+  .input1 {
+    position: relative;
+    left: -535px;
+  }
+
+  .btn1 {
+    position: relative;
+    left: -662px;
+  }
+}
+
+@media only screen and (max-width: 280px) {
+  .burger {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-right: 34px;
+  }
+}
